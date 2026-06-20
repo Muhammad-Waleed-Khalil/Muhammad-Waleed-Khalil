@@ -1,106 +1,113 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:14B8A6&text=Muhammad%20Waleed%20Khalil&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Laravel%20%2F%20Next.js%20Developer&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:0F172A,100:1E40AF&text=Muhammad%20Waleed%20Khalil&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Full-Stack%20Laravel%20%2F%20Next.js%20Developer&descAlignY=61&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Laravel+%2B+Next.js+developer;Building+APIs%2C+dashboards%2C+and+modern+web+apps;Clean+code.+Scalable+systems.+Production-ready+UI.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Laravel-backed+products+with+modern+Next.js+frontends;API+architecture+%7C+dashboards+%7C+database-driven+systems;Practical+engineering+for+real+business+workflows)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mwaleedkhalil.com-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://mwaleedkhalil.com)
-[![Email](https://img.shields.io/badge/Email-mwaleedkhalil%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwaleedkhalil@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Muhammad--Waleed--Khalil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Waleed-Khalil)
-[![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Waleed-Khalil&style=for-the-badge&color=0ea5e9)](https://github.com/Muhammad-Waleed-Khalil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mwaleedkhalil.com-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://mwaleedkhalil.com)
+[![Email](https://img.shields.io/badge/Email-mwaleedkhalil%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwaleedkhalil@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Pakistan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8)](https://github.com/Muhammad-Waleed-Khalil)
 
 </div>
 
 ---
 
-## About Me
+## Professional Snapshot
 
-I am a full-stack developer from Pakistan focused on building reliable, maintainable, and user-friendly web applications. I work across Laravel backends, REST APIs, MySQL databases, React / Next.js frontends, Tailwind CSS interfaces, and deployment workflows.
+I build full-stack web applications with Laravel, PHP, MySQL, Next.js, React, TypeScript, and Tailwind CSS. My work is strongest where backend logic, clean APIs, database workflows, and polished frontend interfaces meet.
 
-My approach is practical: understand the business need, design clean architecture, ship usable features, and keep the codebase easy to extend.
+I care about code that survives handoff: clear structure, predictable data flow, secure integrations, practical UI, and features that are easy to maintain after launch.
 
 ```txt
+Name        Muhammad Waleed Khalil
 Role        Full-Stack Laravel / Next.js Developer
 Location    Pakistan
-Focus       Laravel, APIs, dashboards, Next.js apps, production UI
-Portfolio   mwaleedkhalil.com
-Contact     mwaleedkhalil@gmail.com
+Portfolio   https://mwaleedkhalil.com
+Email       mwaleedkhalil@gmail.com
+GitHub      github.com/Muhammad-Waleed-Khalil
 ```
 
-## Tech Stack
+## Engineering Focus
+
+| Capability | What I Bring |
+| --- | --- |
+| **Laravel Engineering** | MVC applications, authentication, authorization, queues, APIs, admin panels, service integrations |
+| **Frontend Delivery** | Next.js, React, TypeScript, Tailwind CSS, responsive layouts, reusable components |
+| **Database Workflows** | MySQL schema design, relational data modeling, query-focused debugging, reporting flows |
+| **Product Execution** | Turning requirements into working features, cleaning up edge cases, preparing production-ready handoff |
+| **Developer Workflow** | Git, GitHub, code review habits, environment setup, deployment through Vercel and modern hosting |
+
+## Technical Stack
 
 <div align="center">
 
-[![Core Skills](https://skillicons.dev/icons?i=laravel,php,mysql,js,ts,react,nextjs,tailwind,git,github,vercel&perline=6)](https://skillicons.dev)
+[![Core Skills](https://skillicons.dev/icons?i=laravel,php,mysql,js,ts,react,nextjs,tailwind,git,github,vercel&perline=11)](https://skillicons.dev)
 
 <br />
 
-![Laravel](https://img.shields.io/badge/Laravel-Expertise-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-UI-61DAFB?style=flat-square&logo=react&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-Code-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-Deployments-000000?style=flat-square&logo=vercel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-Application%20Architecture-111827?style=flat-square&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-Backend%20Systems-111827?style=flat-square&logo=php&logoColor=8892BF)
+![Next.js](https://img.shields.io/badge/Next.js-Production%20UI-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Maintainable%20Frontend-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20Data-111827?style=flat-square&logo=mysql&logoColor=4479A1)
+![Tailwind](https://img.shields.io/badge/Tailwind-Clean%20Interfaces-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
 </div>
 
-## What I Build
+## Selected Work Areas
 
-| Area | Work I Do |
-| --- | --- |
-| **Backend Engineering** | Laravel applications, REST APIs, authentication, database design, service integrations |
-| **Frontend Engineering** | Next.js, React, Tailwind CSS, responsive dashboards, reusable UI components |
-| **Full-Stack Delivery** | Feature planning, API-to-UI workflows, bug fixing, performance-minded implementation |
-| **Deployment & Workflow** | Git/GitHub workflows, Vercel deployments, environment setup, production handoff |
+- **Business and admin dashboards** with clear data views, filters, forms, and role-based workflows.
+- **Laravel API platforms** for web apps, portals, integrations, and database-driven operations.
+- **Next.js frontends** with responsive UI, reusable components, and clean product presentation.
+- **Workflow automation and integrations** across third-party services, internal tools, and reporting systems.
+- **Portfolio and product websites** that communicate clearly and load quickly.
 
-## Featured Work
-
-- **Business dashboards:** Clean admin panels, reporting screens, and operational workflows.
-- **API platforms:** Secure REST APIs, third-party integrations, and structured backend services.
-- **Modern web apps:** Responsive Next.js interfaces with practical UX and maintainable components.
-- **Portfolio and product sites:** Fast, polished, recruiter-friendly websites with clear presentation.
-
-## GitHub Overview
+## GitHub Signal
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Waleed-Khalil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Waleed-Khalil&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Activity" alt="GitHub activity stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Waleed-Khalil&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Waleed-Khalil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<br />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Waleed-Khalil&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Muhammad-Waleed-Khalil&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 </div>
 
-## GitHub Metrics
+## Metrics
 
 <div align="center">
 
-![GitHub profile metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="GitHub profile metrics" />
 
-![Languages metrics](/metrics.languages.svg)
+<img src="/metrics.languages.svg" alt="Languages metrics" />
 
-![Activity metrics](/metrics.activity.svg)
+<img src="/metrics.activity.svg" alt="Recent activity metrics" />
 
-![Achievements metrics](/metrics.achievements.svg)
+<img src="/metrics.achievements.svg" alt="Achievements metrics" />
 
 </div>
 
-## Current Focus
+## Collaboration Style
 
-- Building polished Laravel + Next.js applications.
-- Improving API architecture, database design, and deployment workflows.
-- Creating clean, recruiter-friendly project presentation.
-- Continuing to grow through production work and practical problem solving.
+- I prefer shipping small, correct pieces over oversized rewrites.
+- I document assumptions, edge cases, and handoff details when they matter.
+- I keep UI practical: readable, responsive, and focused on the user workflow.
+- I debug from evidence: routes, payloads, database state, logs, and actual runtime behavior.
 
 ---
 
 <div align="center">
 
-### Available for Laravel, Next.js, API, and full-stack web development opportunities.
+**Available for Laravel, Next.js, API, dashboard, and full-stack product work.**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,45:2563EB,100:0F172A)
+<br />
+<br />
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://mwaleedkhalil.com)
+[![Email](https://img.shields.io/badge/Start%20a%20Conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:mwaleedkhalil@gmail.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:38BDF8,100:1E40AF)
 
 </div>
